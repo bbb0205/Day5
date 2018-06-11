@@ -1,0 +1,30 @@
+.ui-inline h4,.ui-inline div{
+    display: inline;
+}
+span{
+    margin-right: 3ex;
+}
+.ui-twoline div h4,.ui-twoline div span{
+    margin: 0.5ex;
+    margin-left: 0;
+}
+.ui-underline{
+    text-decoration: underline;
+    color:blue;
+}
+.header{
+    background-color: #858585;
+    padding: 0.5ex 2ex;
+    color: rgb(255, 255, 255);
+}
+.ui-box h2{
+    margin: 1px;
+    padding: 2ex;
+
+    float: left;
+    background-color: #d6d6d6;
+    height: 5ex;
+}
+.ui-clear{
+    clear: both;
+}
